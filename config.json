@@ -1,8 +1,8 @@
 {
     "user_id_list": ["2294193132"],
-    "filter": 0,
+    "filter": 1,
     "since_date": "2020-02-16",
-    "write_mode": ["csv"],
+    "write_mode": ["json"],
     "original_pic_download": 0,
     "retweet_pic_download": 0,
     "original_video_download": 0,
