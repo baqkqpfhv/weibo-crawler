@@ -1,18 +1,10 @@
 {
-    "user_id_list": ["1669879400"],
-    "filter": 1,
-    "since_date": "2018-01-01",
+    "user_id_list": ["2294193132"],
+    "filter": 0,
+    "since_date": "2020-02-16",
     "write_mode": ["csv"],
-    "original_pic_download": 1,
+    "original_pic_download": 0,
     "retweet_pic_download": 0,
-    "original_video_download": 1,
-    "retweet_video_download": 0,
-    "cookie": "your cookie",
-    "mysql_config": {
-        "host": "localhost",
-        "port": 3306,
-        "user": "root",
-        "password": "123456",
-        "charset": "utf8mb4"
-    }
+    "original_video_download": 0,
+    "retweet_video_download": 0
 }
